@@ -3,25 +3,29 @@
 ### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="60" />
 </div>
 
 ---
